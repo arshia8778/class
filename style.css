@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600&display=swap');
+
+
+body {
+direction: rtl;
+min-height: 100vh;
+background-image: 
+  repeating-linear-gradient(305deg, 
+    rgba(33,33,33, 0) 0,
+    #0f535b 75vmax,
+    #0f535b calc(75vmax - 5px),
+    #0f535b 75vmax
+  ),
+  repeating-linear-gradient(220deg, 
+    rgba(33,33,33, 0) 0,
+    #737373 75vmax,
+    #737373 calc(75vmax - 5px),
+    #737373 75vmax
+  );
+
+background-color: #212121;
+background-size: 100% 100%;
+}
+
